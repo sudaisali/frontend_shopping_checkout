@@ -19,7 +19,7 @@ This is a front-end React project for a shopping cart checkout application.
     ```
 2. Go to backend_shopping_cart:
     ```sh
-    cd backend_shopping_cart
+    cd frontend_shopping_checkout
     ```
 
 3. Install dependencies:
