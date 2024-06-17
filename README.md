@@ -1,8 +1,40 @@
-# React + Vite
+# Frontend Shopping Checkout
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a front-end React project for a shopping cart checkout application.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Environment Setup](#environment-setup)
+- [Running the Project](#running-the-project)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites
+- Node.js 
+
+
+## Installation
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/sudaisali/frontend_shopping_checkout.git
+    ```
+2. Install dependencies:
+    ```sh
+    npm install
+    ```
+
+## Environment Setup
+1. Create a `.env` file in the root of your project:
+    ```
+    VITE_BASE_URL=your_base_url
+    VITE_STRIP_KEY=your_stripe_key
+    ```
+   Replace `your_base_url` and `your_stripe_key` with your actual values.
+
+## Running the Project
+1. Start the development server:
+    ```sh
+    npm run dev
+    ```
+2. The project will be running at `http://localhost:3000`.
+
+
