@@ -61,7 +61,7 @@ const fetchClientSecret = async () => {
   </div>
 ) : (
   <div className='flex lg:flex-row flex-col'>
-    <div className='w-full h-auto md:h-screen p-4 overflow-y-auto'>
+    <div className='w-full h-auto lg:h-screen p-4 overflow-y-auto'>
       {cart.items.map((item) => (
         <CartCard key={item.id} item={item} />
       ))}
