@@ -38,3 +38,7 @@ This is a front-end React project for a shopping cart checkout application.
 2. The project will be running at `http://localhost:3000`.
 
 
+## Documentation Link
+https://docs.google.com/document/d/1Ubjj5BknzZzE-N1sBWbeqbn0Vy22oBx6ALUear59tco/edit?usp=sharing
+
+
