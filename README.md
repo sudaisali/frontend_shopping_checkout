@@ -46,4 +46,7 @@ This is a front-end React project for a shopping cart checkout application.
 ## Documentation Link
 https://docs.google.com/document/d/1Ubjj5BknzZzE-N1sBWbeqbn0Vy22oBx6ALUear59tco/edit?usp=sharing
 
+## Video Link
+https://drive.google.com/file/d/1VfKS6N2LZ9Pr8fRRQIs0OX_szKqCB46L/view?usp=sharing
+
 
